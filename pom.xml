@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>hu.webuni.airport</groupId>
-	<artifactId>customer-service</artifactId>
+	<artifactId>airport-CustomerService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>customer-service</name>
 	<description>Customer service of the airport</description>
